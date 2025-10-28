@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [CollegeTestSuite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Faculty(failed)">
+    <classes>
+      <class name="Testng1.Program3">
+        <methods>
+          <include name="FacultyBrokenLinks"/>
+        </methods>
+      </class> <!-- Testng1.Program3 -->
+    </classes>
+  </test> <!-- Faculty(failed) -->
+</suite> <!-- Failed suite [CollegeTestSuite] -->

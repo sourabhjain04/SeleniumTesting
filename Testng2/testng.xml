@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="CollegeTestSuite">
+     <!-- test 1 -->
+    <test name="Admission">
+    
+    
+    <classes>
+    
+    <class name="Testng1.Program1"/>
+      
+    
+    </classes>
+    
+    
+    </test>
+ <!-- test 2 -->    
+    <test name="Placement">
+    
+    
+    <classes>
+    
+    <class name="Testng1.Program2"/>
+      
+    
+    </classes>
+    
+    
+    </test>
+ <!-- test 3 -->
+    <test name="Faculty">
+    
+    
+    <classes>
+    
+    <class name="Testng1.Program3"/>
+      
+    
+    </classes>
+    
+    
+    </test>
+    
+    
+    
+    
+</suite>
