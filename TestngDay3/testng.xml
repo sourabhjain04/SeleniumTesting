@@ -1,0 +1,42 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Suite" >
+    <test name="Admission">
+        <classes>
+           <class name="TestngDay3.Program1">
+           <methods>
+           <include name="AdmissionLogin1"></include>
+           <include name="AdmissionBrokernLinks" />
+           
+           </methods>
+           </class>
+           
+        </classes>
+    </test>
+     <test name="Placement">
+        <classes>
+           <class name="TestngDay3.Program2">
+           <methods>
+          
+           <exclude name="PlacementLogin"></exclude>
+           <include name=""></include>
+           </methods>
+           </class>
+           
+        </classes>
+    </test>
+    
+     <test name="Faculty">
+        <classes>
+           <class name="TestngDay3.Program3">
+           <methods>
+           <exclude name="Faculty.*"></exclude>
+           
+           </methods>
+               
+           </class>
+           
+        </classes>
+    </test>
+   
+    
+</suite>
