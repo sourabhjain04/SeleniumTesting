@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-10-29T13:43:24 IST" name="Suite" finished-at="2025-10-29T13:43:24 IST" duration-ms="350">
+    <groups>
+    </groups>
+    <test started-at="2025-10-29T13:43:24 IST" name="Admission" finished-at="2025-10-29T13:43:24 IST" duration-ms="124">
+      <class name="TestngDay3.Program1">
+        <test-method signature="AdmissionBrokernLinks()[pri:0, instance:TestngDay3.Program1@1283bb96]" started-at="2025-10-29T13:43:24 IST" name="AdmissionBrokernLinks" finished-at="2025-10-29T13:43:24 IST" duration-ms="22" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AdmissionBrokernLinks -->
+        <test-method signature="AdmissionLogin1()[pri:0, instance:TestngDay3.Program1@1283bb96]" started-at="2025-10-29T13:43:24 IST" name="AdmissionLogin1" finished-at="2025-10-29T13:43:24 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AdmissionLogin1 -->
+      </class> <!-- TestngDay3.Program1 -->
+    </test> <!-- Admission -->
+    <test started-at="2025-10-29T13:43:24 IST" name="Placement and Faculty" finished-at="2025-10-29T13:43:24 IST" duration-ms="58">
+      <class name="TestngDay3.Program3">
+        <test-method signature="FacultyBrokenLinks()[pri:0, instance:TestngDay3.Program3@1a677343]" started-at="2025-10-29T13:43:24 IST" name="FacultyBrokenLinks" finished-at="2025-10-29T13:43:24 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FacultyBrokenLinks -->
+        <test-method signature="FacultyLogin()[pri:0, instance:TestngDay3.Program3@1a677343]" started-at="2025-10-29T13:43:24 IST" name="FacultyLogin" finished-at="2025-10-29T13:43:24 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FacultyLogin -->
+      </class> <!-- TestngDay3.Program3 -->
+      <class name="TestngDay3.Program2">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:TestngDay3.Program2@6ed3ccb2]" started-at="2025-10-29T13:43:24 IST" name="beforeClass" finished-at="2025-10-29T13:43:24 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TestngDay3.Program2@6ed3ccb2]" started-at="2025-10-29T13:43:24 IST" name="beforeMethod" finished-at="2025-10-29T13:43:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="PlacementBrokenLink()[pri:0, instance:TestngDay3.Program2@6ed3ccb2]" started-at="2025-10-29T13:43:24 IST" name="PlacementBrokenLink" finished-at="2025-10-29T13:43:24 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PlacementBrokenLink -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:TestngDay3.Program2@6ed3ccb2]" started-at="2025-10-29T13:43:24 IST" name="afterMethod" finished-at="2025-10-29T13:43:24 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TestngDay3.Program2@6ed3ccb2]" started-at="2025-10-29T13:43:24 IST" name="beforeMethod" finished-at="2025-10-29T13:43:24 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="PlacementLogin()[pri:0, instance:TestngDay3.Program2@6ed3ccb2]" started-at="2025-10-29T13:43:24 IST" name="PlacementLogin" finished-at="2025-10-29T13:43:24 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PlacementLogin -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:TestngDay3.Program2@6ed3ccb2]" started-at="2025-10-29T13:43:24 IST" name="afterMethod" finished-at="2025-10-29T13:43:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:TestngDay3.Program2@6ed3ccb2]" started-at="2025-10-29T13:43:24 IST" name="afterClass" finished-at="2025-10-29T13:43:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- TestngDay3.Program2 -->
+    </test> <!-- Placement and Faculty -->
+  </suite> <!-- Suite -->
+</testng-results>
