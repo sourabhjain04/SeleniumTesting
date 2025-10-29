@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Suite" >
+    <test name="Admission">
+      <packages>
+      	<package name="Testng1"/>
+        <package name="TestNg2"/>
+        </packages>
+    </test>
+   
+   
+    
+</suite>
